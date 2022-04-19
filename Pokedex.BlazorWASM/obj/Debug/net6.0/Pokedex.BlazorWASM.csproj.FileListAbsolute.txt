@@ -817,3 +817,4 @@ C:\Users\DJ Revell\source\repos\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\
 C:\Users\DJ Revell\source\repos\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\Pokedex.BlazorWASM.dll
 C:\Users\DJ Revell\source\repos\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\ref\Pokedex.BlazorWASM.dll
 C:\Users\DJ Revell\source\repos\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\Pokedex.BlazorWASM.pdb
+C:\Users\DJ Revell\source\repos\Pokedex.BlazorWASM\Pokedex.BlazorWASM\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
