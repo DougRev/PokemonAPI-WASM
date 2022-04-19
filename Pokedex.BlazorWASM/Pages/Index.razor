@@ -22,7 +22,7 @@
     protected async Task GetPokemonAsync()
     {
         IsLoading = true;
-        Pokemon = await GetPokemon(searchText);
+        Pokemon = await GetPokemon(searchText.ToLower());
         IsLoading = false;
     }
 
