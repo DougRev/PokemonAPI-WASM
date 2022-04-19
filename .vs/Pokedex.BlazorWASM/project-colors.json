@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcc85196-893c-46dd-b29a-b34d192ce9bd": {
+      "ProjectGuid": "fcc85196-893c-46dd-b29a-b34d192ce9bd",
+      "DisplayName": "Pokedex.BlazorWASM",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
